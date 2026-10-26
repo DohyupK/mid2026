@@ -8,7 +8,7 @@
 단, raylib는 최신 버전 nuget으로 설치를 하고, 코드는 너무 길게는 만들지마.
 실행 되도록 확인해서 코드 만들어줘.
 ```
-
+```
 #include "raylib.h"
 #include <math.h>
 #include <stdbool.h>
@@ -582,3 +582,5 @@ int main(void)
     CloseWindow();
     return 0;
 }
+
+```
