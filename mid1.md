@@ -582,5 +582,5 @@ int main(void)
     CloseWindow();
     return 0;
 }
-
 ```
+<img width="993" height="746" alt="image" src="https://github.com/user-attachments/assets/55a82543-6f4f-4dec-9a2e-d9b032de8206" />
